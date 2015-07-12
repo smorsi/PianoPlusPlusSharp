@@ -59,3 +59,5 @@ C:\Users\Sara\Documents\Visual Studio 2013\Projects\PianoPlusPlus\PianoPlusPlus\
 C:\Users\Sara\Documents\Visual Studio 2013\Projects\PianoPlusPlus\PianoPlusPlus\bin\AWS.SessionProvider.pdb
 C:\Users\Sara\Documents\Visual Studio 2013\Projects\PianoPlusPlus\PianoPlusPlus\bin\AWS.TraceListener.pdb
 C:\Users\Sara\Documents\Visual Studio 2013\Projects\PianoPlusPlus\PianoPlusPlus\bin\AWSSDK.pdb
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\PianoPlusPlus\PianoPlusPlus\obj\Debug\PianoPlusPlus.Migrations.InitialCreate.resources
+C:\Users\Sara\Documents\Visual Studio 2013\Projects\PianoPlusPlus\PianoPlusPlus\obj\Debug\PianoPlusPlus.csproj.GenerateResource.Cache
