@@ -286,6 +286,7 @@
     <Content Include="Views\Home\Chat.cshtml" />
     <Content Include="Views\Home\FindTutor.cshtml" />
     <Content Include="Views\WebRTC\WebRTCChat.cshtml" />
+    <Content Include="Views\Home\Help.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
